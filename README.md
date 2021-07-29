@@ -1,6 +1,4 @@
 # Rastreator APP <img src="./assets/images/readme-rastreator.png" width="200px" />
-
-# Introducción
 Rastreator es el mayor buscador de seguros y, en esta aplicación podrás encontrar los seguros de coches y préstamos catalogados por coberturas y ordenados de menor a mayor precio.
 Los préstamos están ordenados de menor a mayor a partir de los 10.000€.
 
