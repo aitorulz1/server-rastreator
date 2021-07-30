@@ -43,4 +43,4 @@ Los endpoints son:
 # Usabilidad
 Para dispositivos móviles, podrás seleccionar la fila de precios que más teinterese y podrás deslizarla a modo carrousel para poder ver todos los seguros y tipos de préstamos.
 
-<img src="./assets/images/responsive.jpg" />
+<img src="./assets/images/responsive-screen.jpg" />
