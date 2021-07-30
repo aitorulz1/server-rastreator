@@ -7,6 +7,14 @@ Los préstamos están ordenados de menor a mayor a partir de los 10.000€.
 - Fork this Repo
 - Clone this Repo "git clone + url"
 
+```sh
+git clone https://github.com/aitorulz1/client-rastreator.git
+```
+
+```sh
+git clone https://github.com/aitorulz1/server-rastreator.git
+```
+
 
 # Cliente
 Una vez tengas clonado el repositorio de cliente, instala todas las dependencias | npm install
@@ -33,8 +41,6 @@ npm run server
 
 El servidor corre en [http://localhost:4000/]
 Podremos comrobar los endpoints en:
-
-Los endpoints son:
 
 - [http://localhost:4000/insurances] Para los seguro
 - [http://localhost:4000/loans] Para los préstamos
